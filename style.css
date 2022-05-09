@@ -1,0 +1,45 @@
+h1,input, .header__img-search--margin-top{
+    margin-top:5%;
+}
+
+h1{
+    display:flex;
+    justify-content:center;
+}
+
+input{
+    border-top-style:hidden;
+    border-left-style:hidden;
+    border-right-style:hidden;
+    margin-left:10px;
+}
+
+.header__menu{
+    display:flex;
+    justify-content:center;
+}
+
+.header__img-search--margin{
+    margin-left:15px;
+    margin-top:20px;
+}
+
+.header__paragraph::after{
+    content: ">";
+    color:red;
+}
+
+.header__menu--display{
+    display:inline-block;
+
+}
+
+.main__img-ficha{
+    width:100%;
+    height:400px;
+}
+
+
+
+
+
